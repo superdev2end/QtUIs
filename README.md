@@ -24,5 +24,5 @@
 ## [8. QtFacileMenu](https://github.com/superdev2end/QtUIs/tree/main/08_QtFacileMenu)
 <img src="https://github.com/superdev2end/QtUIs/blob/main/08_QtFacileMenu/QtFacileMenu.gif?raw=true" width="400"/>
 
-[happy.jong.soft@gmail.com](mailto:supderdev2end@gmail.com) \
+[superdev2end@gmail.com](mailto:supderdev2end@gmail.com) \
 [YouTube](https://www.youtube.com/channel/UCzcpR2jPKBYXvKFp6kBMdGA)
